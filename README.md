@@ -258,3 +258,13 @@ The Vivado Block Design for this QCSNN accelerator uses the following major IP b
 7. Generate bitstream + hardware handoff, deploy to PYNQ-Z2, and test.
 
 ---
+## 7. Citation
+
+
+```bibtex
+@misc{qcsnn,
+  author       = {Olamilekan Banjo and Behnaz Ghoraani},
+  title        = {},
+  year         = {2026},
+  howpublished = {\url{https://github.com/BanjoOD/qcsnn}}
+}
